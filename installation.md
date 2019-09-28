@@ -25,7 +25,7 @@ This tool emulates UNIX terminal.
     `/c/Users/IEUser/AppData/Local/Programs/Python/Python37-32/python`
 
 #### 4. Python libraries
-1. Clone this repository using one of the following command in your terminal `git clone https://github.com/anastazie/programming-fundamentals.git`
+1. Clone this repository using one of the following command in your terminal `git clone https://github.com/svarnypetr/programming-fundamentals.git`
 
 1. Go to the project directory
     ```
@@ -56,7 +56,7 @@ You can use [Atom](https://atom.io), [Sublime Text](http://www.sublimetext.com) 
 
 #### 3. Python libraries
 
-1. Clone this repository using one of the following command in your terminal `git clone https://github.com/anastazie/programming-fundamentals.git`
+1. Clone this repository using one of the following command in your terminal `git clone https://github.com/svarnypetr/programming-fundamentals.git`
 1. Install several libraries separately by using following commands in the terminal: 
     ```
     pip3 install pandas
@@ -86,6 +86,6 @@ You can use [Atom](https://atom.io), [Sublime Text](http://www.sublimetext.com) 
     ```
 1. In you browser type following address: `http://127.0.0.1:8050/`. You should see barplot.
 1. Quit app by typing `Ctrl+C` in terminal. 
-1. Start Jupyter Notebook by typing i terminal `jupyter notebook`. Tab will open in your default browser automatically.
+1. Start Jupyter Notebook by typing in terminal `jupyter notebook`. Tab will open in your default browser automatically.
 1. Stop Jupyter Notebook by typing `Ctrl+C` in terminal.
 
