@@ -5,7 +5,7 @@
 ### Windows
 
 #### 1. Text editor
-You can use [Notepad++](https://notepad-plus-plus.org/download/v7.5.8.html) or other text editor of your choice.
+You can use [Notepad++](https://notepad-plus-plus.org/download/) or other text editor of your choice.
 
 #### 2. GitBash
 
