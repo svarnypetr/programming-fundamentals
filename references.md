@@ -26,3 +26,5 @@
 [Python interesting features](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 
 [A list of nice Python tools and packages](https://github.com/vinta/awesome-python)
+
+[A few Python tricks](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
